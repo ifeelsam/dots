@@ -1,0 +1,1 @@
+../../../../dots/.config/rofi/applets/bin/battery.sh

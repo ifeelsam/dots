@@ -1,0 +1,1 @@
+../../../dots/.config/rofi/rofi-power-menu/powermenu.sh
