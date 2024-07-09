@@ -1,1 +1,12 @@
-../../../../../dots/.config/rofi/launchers/mac/shared/fonts.rasi
+/**
+ *
+ * Author : Aditya Shakya (adi1090x)
+ * Github : @adi1090x
+ * 
+ * Fonts
+ *
+ **/
+
+* {
+    font: "Noto Sans Nerd Font 15";
+}
